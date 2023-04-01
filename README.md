@@ -1,4 +1,4 @@
-# CNN-on-CIFAR10
+# PyTorch-CIFAR10
 ## Pytorch Implementation of Deep Learning Models/Algorithms
 
 This repository is used to implement popular model architectures on the `CIFAR10` dataset.
